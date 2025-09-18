@@ -1,6 +1,7 @@
 # Mi-primer-dise-o-web
 
-Said Alejandro Ramirez Chavez 3-D
+Nombre, grado y grupo:  Said Alejandro Ramirez Chavez 3-D
 
+Materia:  Emplea Framework para el Desarrollo de Software
 
-![Uploading IMG_20250917_174603.jpg…]()
+correo:  24308060610069@cetis61.edu.mx
